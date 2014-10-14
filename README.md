@@ -17,6 +17,10 @@ By
 Command line script
 -------------
 
-`` cd /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/File Templates ``
+```zsh
 
-``sudo ./updateHeaders.sh``
+cd /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/File Templates
+
+sudo ./updateHeaders.sh
+
+```
